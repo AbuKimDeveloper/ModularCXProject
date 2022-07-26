@@ -1,0 +1,21 @@
+.footer-container {
+    height: 10vh;
+    color: whitesmoke;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #3a3a3a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 0px 10px;
+}
+
+.footer-container-copyright {
+    flex : 3;   
+}
+
+.footer-container-email {
+    display : flex;
+    flex : 2;    
+    justify-content: space-between;
+}
